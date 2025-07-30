@@ -1,0 +1,11 @@
+Transformer Neural Networks
+--------------------------
+- Introduced in "Attention Is All You Need" (Vaswani et al., 2017)
+- Key features:
+  1. Self-attention mechanism
+  2. Parallel processing (unlike RNNs)
+  3. Scalable for large datasets
+
+Applications:
+- Natural Language Processing (GPT, BERT)
+- Computer Vision (ViT)

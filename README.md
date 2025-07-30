@@ -33,3 +33,6 @@ An AI-powered tool that helps researchers and students quickly analyze documents
 ```bash
 git clone https://github.com/yourusername/research-assistant.git
 cd research-assistant
+pip install requirements.txt
+//after successfully download the package and modules run this command
+streamlit run app.py
